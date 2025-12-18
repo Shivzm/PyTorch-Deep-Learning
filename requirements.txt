@@ -1,7 +1,7 @@
 jupyter
 uv
 ipykernel
-pytorch
+torch
 numpy
 pandas
 matplotlib
