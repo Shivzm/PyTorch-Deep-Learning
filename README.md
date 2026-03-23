@@ -18,7 +18,7 @@ Run the following command to activate the virtual environment:
 ## Startup:
 Run the command <code> uv add -r requirements.txt </code> in your terminal to install all the dependencies.
 
-If you don't to keep a requirements file, then run the following command to install the dependencies:
+If you don't want to keep a requirements file, then run the following command to install the dependencies:
 <code>uv add numpy pandas matplotlib jupyter ipykernel torch torchvision torchaudio</code>
 
 This would add all the dependencies in the <code>.toml</code>file and install all of them.
