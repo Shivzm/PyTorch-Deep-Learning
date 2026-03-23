@@ -13,7 +13,7 @@ Then initialize uv with the following command and create a virtual environment:
 <code>uv venv</code>
 
 Run the following command to activate the virtual environment:
-<code>.venv\Scripts\Activate</code>
+<code>.venv\Scripts\Activate.ps1</code>
 
 ## Startup:
 Run the command <code> uv add -r requirements.txt </code> in your terminal to install all the dependencies.
